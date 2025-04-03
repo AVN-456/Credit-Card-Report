@@ -32,3 +32,13 @@ Ensures an intuitive user experience with easy navigation.
 
 # Versatile Application Across Industries – 
 The methodology can be applied to various sectors like retail, banking, and hospitality.
+# Repository Struture 
+Dashboard-
+Data Used-
+
+Screenshort 
+Credit card tranction Report
+
+Credit card customer Report
+
+
