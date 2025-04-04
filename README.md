@@ -38,7 +38,7 @@ Dashboard-https://github.com/AVN-456/Credit-Card-Report/commit/88a8f84c043ef06fd
 Data Used-
 Credit card - https://github.com/AVN-456/Credit-Card-Report/blob/main/credit_card%20(1).xlsx
 
-Customer -   
+Customer -  https://github.com/AVN-456/Credit-Card-Report/blob/main/customer.xlsx 
 
            
 
