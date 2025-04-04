@@ -58,3 +58,7 @@ Credit card customer Report
 ![Screenshot (286)](https://github.com/user-attachments/assets/dcaf9c15-9a56-478a-bffe-16eb3d1ccbbd)
 
 
+# Feedback
+Your feedback is welcome! If You'd like to collaborate on same project or discuss data analysis opportunities, feel free to reach out.
+
+
